@@ -1,2 +1,2 @@
-blueocaen
+blueocean
 kubernetes
